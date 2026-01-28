@@ -1,26 +1,48 @@
 ---
 title: "Annotated Bibliography"
+author: Kyle O'Connor
+date: 2026-01-28
 bibliography: references.bib
 csl: chicago-syllabus.csl
 suppress-bibliography: true
 link-citations: false
 citations-hover: false
 ---
-
+-------------------------------------------------------------------------------
 # Annual Review Article
 
-@annualrevarticle
-
+@yanConsequencesAskingSensitive2020
 
 # References
 
-@ref1
+@tourangeauPsychologySurveyResponse2000
 
-- Summary
+-   **Summary**
 
-- Reliability and relationship to the topic
+    -   In this book, authors Roger Tourangeau, Lance Rips, and Kenneth Rasinki talk about the psychological components that make up quality survey questions. These components include representation (the way the question is phrased in order to achieve a specific type of response), presupposition (the way that questions make or don't make certain assumptions), and focus (the specific aspect of the question that requires a response). They also talk about how the main difficulties that can affect the results of a survey include the respondent's personal interpretation of a question and the direct relationship that exists between survey length and the survey/poll's cost to conduct. To solve these issues, the authors suggest defining all complicated and confusing terms, breaking down large and complicated questions into smaller, simpler ones, and if possible, avoiding vague concepts and questions entirely.
 
-- Missing pieces
-    - thing 1
+-   **Reliability**
 
-    - thing 2
+    -   Roger Tourangeau graduated Yale University with a degree in psychology, and afterwards worked as a senior methodologist for the Gallup Organization, the largest U.S. public polling and data analytics firm. He has also worked as a Research Professor at the University of Michigan-Ann Arbor, and he is now the Vice President of Westat. Lance Rips is a Research Professor in Psychology from Northwestern University, and Kenneth Rasiniki is a Social Psychology Professor for the University of Chicago's Department of Medicine. All of this experience in adacemia shows that they are qualified to speak on the science and psychology behind polling and surveying. This book relates to the Review Article because understanding the underlying psychological components of survey questions can help explain why survey respondents give the responses they do, and it can also help explain why some questions result in a higher rate of non-response.
+
+-   **Missing Pieces**
+
+    -   At times, this book delves into the more technical and philosophical aspects of psychology that I am not very familiar with. As a result, I can't really speak on the theories brought up throughout the selected pages of the book, which means I probably won't be able to take in as much information as I would like to when it comes to the statistical side of this topic.
+
+    -   This book only scratches the surface a little when it comes to connecting the theories and topics talked about to the statistical aspect of surveying, and as a result there is a bit of a knowledge gap present between the psychological and statistical aspects of this topic.
+
+@ongImpactAnonymityResponses2006
+
+-   **Summary**
+
+    -   In this paper, authors Anthony Ong and David Weiss talk about the ways that sensitive questions can affect respondents' honesty when answering a survey or poll. They did this by conducting a study that analyzed the effects of anonymity and confidientiality on honest response rates in students. The results showed that verifiable promises of anonymity produced by far the most honest results from respondents, regardless of the type of question asked. The paper also talks about how sensitivity, when it comes to surveys and polling, has more to do with the way respondents are aware of and comfortable with the level of anonymity, rather than just being based on the type of question asked. 
+
+-   **Reliability**
+
+    -   Anthony Ong is a Research Professor of Psychology at Cornell University, and has previously studied both psychology and adult development at the University of Southern California (USC) and the University of Notre Dame respectively. David Weiss is a PhD Professor of Psychology from the University of Minnesota who developed the University's Quantitative and Pscyhometric Methods program for his department. Based on their backgrounds, I believe that both Ong and Weiss would be very knowledgable and qualified to speak on the psychology of survey respondents. This study relates to the Review Article as question sensitivity and anonymity are both part of the foundation to the Article's analysis of the consequecnes of asking sensitive questions.
+
+-   **Missing Pieces**
+
+    -   For the discussion section, while they talk in length about the impacts of anonymity, they don't speak nearly as much about the effects of confidentiality despite it being an equally important part of their study. Without some of their thoughts on this aspect, I feel that I'm not getting the whole picture when it comes to the results of this study.
+
+    -   When it comes to some of the statistical analysis used in this paper, I'm not entirely familiar with some of the adjustments (such as Bonferroni) used. As a result, I can't fully understand the analysis' results.
