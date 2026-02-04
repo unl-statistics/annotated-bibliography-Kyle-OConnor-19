@@ -1,0 +1,90 @@
+---
+title: "Article Reverse Outline"
+author: Kyle O'Connor
+format: html
+editor: visual
+---
+
+[Review Article](https://www.annualreviews.org/content/journals/10.1146/annurev-statistics-040720-033353)
+
+**Thesis**: Sensitive questions on surveys can lead to multiple types of response error depending on the type of study and the type of question asked.
+
+------------------------------------------------------------------------
+
+[***Section 2***:]{.underline}
+
+**Main Idea**: Sensitive questions are questions whose responses can be seen as socially undesirable, and/or lead to negative social or legal consequences for the respondent. Sensitivity when it comes to poll/survey design isn't a bounded concept as it depends on a respondent's lived experiences and beliefs.
+
+**How it Supports the Thesis**: This section provides an overview of what sensitivity is when it comes to survey/poll design. Because the rest of the paper talks about the consequences of asking sensitive questions, the authors needed to provide a clear definition so readers are on the same page before diving into the effects.
+
+**Research Gaps**: None
+
+------------------------------------------------------------------------
+
+[**Section 3**:]{.underline}
+
+**Main Idea**: For cross-sectional (one time) surveys, respondents are more likely to participate when they are interested in the survey material, have socially desirable characteristics that relate to the survey, or know about the survey's topic in advance and don't find to be too sensitive. If a respondent doesn't fall into any of these categories, it is much more likely that they don't participate.
+
+**How it Supports the Thesis**: This section goes into detail about cross-sectional surveys, and some of the factors that affect the non-response rate.
+
+**Research Gaps**: None
+
+------------------------------------------------------------------------
+
+[**Section 4**:]{.underline}
+
+**Main Idea**: For longitudinal (multiple round) studies, non-response rates can increase in later stages as respondents at that point will be aware of sensitive topics the survey is trying to get at. Additionally, sensitive topics that appear early in longitudinal studies are more likely to negatively affect the response rate for future rounds of questions.
+
+**How it Supports the Thesis**: This section talks about another common type of surveying, and some of the factors that affect the non-response rate.
+
+**Research Gaps**: None
+
+------------------------------------------------------------------------
+
+[**Section 5**:]{.underline}
+
+**Main Idea**: Surveys tend to have a higher item non-response rate (N/A answers for specific questions) when respondents don't know anything about the question, only have rough estimates for questions that ask to be specific, or when the question deals with questions relating to sensitive topics such as income, sexual behavior, voting preferences, and citizenship.
+
+**How it Supports the Thesis**: While the previous sections talk about the ways survey types affect non-response rates, this section gets more specific and looks at specific question types that lead to a high non-response rate.
+
+**Research Gaps**: None
+
+------------------------------------------------------------------------
+
+[**Section 6**:]{.underline}
+
+**Main Idea**: Instead of non-response, some respondents don't give honest answers when responding to sensitive questions. Respondents do this when they worry their responses are specifically either embarrassing or potentially self-incriminating.
+
+**How it Supports the Thesis**: This section talks about the other most common form of result manipulation seen for sensitive questions and why respondents choose to give dishonest answers rather than provide no response. Especially for socially undesirable habits or traits, it is much more likely for respondents to reply to sensitive questions with whatever the socially acceptable norm is rather than be honest or give no response, as no response if often seen by respondents as an admission of the socially undesirable trait or habit.
+
+**Research Gaps**: None
+
+------------------------------------------------------------------------
+
+[**Section 7**:]{.underline}
+
+**Main Idea**: Non-Response and Misreporting aren't independent sources of error, as trying to remove the effect of one type of often leads to an increase in the other type.
+
+**How it Supports the Thesis**: This section provides evidence of a relationship that exists between the previously mentioned error types, as well as the combination effect they can have on swinging the bias rate in the positive or negative direction. Additionally, when outside respondent factors like their interest in the subject material combine with other factors like them having the socially desirable answers, the result can actually be an over-representation of those archetypes in the results because they are the ones that are most likely to provide complete answers to all of the questions.
+
+**Research Gaps**: An investigation into the specific interaction effects between Item Non-Response and Dishonest Reporting.
+
+------------------------------------------------------------------------
+
+**Section 8**:
+
+**Main Idea**: Strategies that can be implemented to reduce the effect of both error types (Item Non-Response and Misreporting) include:
+
+-   Respondent Self Administration
+-   Guaranteeing Privacy, Anonymity, and Confidentiality
+-   Asking Indirect Question Types (Randomized Response and Item Count Techniques)
+-   Respondent Manipulation (Bogus Pipeline Technique)
+-   Priming
+
+**How it Supports the Thesis**: This section talks about various methods that can be implemented to reduce the effect of error rates on survey results. It also specifies when each method would be best used based on the specific circumstances of the survey.
+
+**Research Gaps**: Statistical Impact of the Bystander Effect; Statistical Impact of Using RRT vs. ICT vs. BPT (Which Method works best?)
+
+------------------------------------------------------------------------
+
+(Sections 1 and 9 are the Introduction and Conclusion Sections and aren't included for a Reverse Outline)
